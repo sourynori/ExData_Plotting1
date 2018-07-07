@@ -1,0 +1,67 @@
+[33mcommit 07da6f544380159c8264a964d92cf7086d801c65[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sri Soury Nori <sourynori@gmail.com>
+Date:   Sat Jul 7 04:44:50 2018 -0400
+
+    removed figure folder
+
+ figure/unnamed-chunk-2.png | Bin [31m16262[m -> [32m0[m bytes
+ figure/unnamed-chunk-3.png | Bin [31m30440[m -> [32m0[m bytes
+ figure/unnamed-chunk-4.png | Bin [31m27722[m -> [32m0[m bytes
+ figure/unnamed-chunk-5.png | Bin [31m54811[m -> [32m0[m bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 4eed6dce74906445c0a41ba6768033d5bc0cef38[m
+Author: Sri Soury Nori <sourynori@gmail.com>
+Date:   Sat Jul 7 04:40:10 2018 -0400
+
+    removed the data file
+
+ household_power_consumption.txt | 2075260 [31m------------------------------------[m
+ 1 file changed, 2075260 deletions(-)
+
+[33mcommit 1686b62eb218ac7efb4969b8d37910d266509606[m
+Author: Sri Soury Nori <sourynori@gmail.com>
+Date:   Sat Jul 7 04:36:52 2018 -0400
+
+    plots and code
+
+ household_power_consumption.txt | 2075260 [32m++++++++++++++++++++++++++++++++++++[m
+ plot1.R                         |      14 [32m+[m
+ plot1.png                       |     Bin [31m0[m -> [32m3889[m bytes
+ plot2.R                         |      15 [32m+[m
+ plot2.png                       |     Bin [31m0[m -> [32m4504[m bytes
+ plot3.R                         |      19 [32m+[m
+ plot3.png                       |     Bin [31m0[m -> [32m3959[m bytes
+ plot4.R                         |      33 [32m+[m
+ plot4.png                       |     Bin [31m0[m -> [32m7134[m bytes
+ 9 files changed, 2075341 insertions(+)
+
+[33mcommit 73fe5c675a2db951b302bfd68524bf7a56094d46[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Roger D. Peng [amelia] <rdpeng@gmail.com>
+Date:   Tue Feb 25 10:51:05 2014 -0500
+
+    Forgot to add figures to repo
+
+ figure/unnamed-chunk-2.png | Bin [31m0[m -> [32m16262[m bytes
+ figure/unnamed-chunk-3.png | Bin [31m0[m -> [32m30440[m bytes
+ figure/unnamed-chunk-4.png | Bin [31m0[m -> [32m27722[m bytes
+ figure/unnamed-chunk-5.png | Bin [31m0[m -> [32m54811[m bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 3edfc828f063ecc7c71a99705da11d7018b9829c[m
+Author: Roger D. Peng [amelia] <rdpeng@gmail.com>
+Date:   Sun Feb 9 00:09:52 2014 -0500
+
+    Update README with instructions
+
+ README.md | 116 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m--[m
+ 1 file changed, 113 insertions(+), 3 deletions(-)
+
+[33mcommit 3b620f79004fcd6f0560ec59e6a7cb8f134a9fdd[m
+Author: Roger D. Peng <rdpeng@gmail.com>
+Date:   Sat Feb 8 19:37:01 2014 -0800
+
+    Initial commit
+
+ README.md | 4 [32m++++[m
+ 1 file changed, 4 insertions(+)
